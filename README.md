@@ -19,7 +19,7 @@
 ## Instructions to run
 
 * Pre-requisites:
-	- Any IDE will for opening the code for viewing 
+	- Any IDE will work for opening the code for viewing 
 	-  Any browser for viewing output
 
 * Clone the repo using  
