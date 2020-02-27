@@ -1,19 +1,17 @@
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/30529572/72455010-fb38d400-37e7-11ea-9c1e-8cdeb5f5906e.png" />
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> 2CC Attendance Portal </h2>
+	<h4 align="center">A single page application for checking attendance of students enrolled in 2CC course offered by DSCVIT during winter semester 2019-2020<h4>
 </p>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
+  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://2cc.dscvit.com/)
 
 
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+- [x]  Check attendance by entering registration number
+- [x]  Check all session attendance indiviually
+
 
 <br>
 
@@ -21,26 +19,24 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+	- Any IDE will for opening the code for viewing 
+	-  Any browser for viewing output
 
-* < directions to install > 
-```bash
-< insert code >
-```
+* Clone the repo using  
+	```bash
+	git clone REPO_URL
+	```
 
-* < directions to execute >
-
-```bash
-< insert code >
-```
+* Directions to execute 
+	```
+	Run the index.html
+	```
 
 <br>
 
 ## Contributors
 
-* [ < INSERT NAME HERE > ](INSERT_PROFILE_URL_HERE)
-* [ < INSERT NAME HERE > ](INSERT_PROFILE_URL_HERE)
+* [Prakhar Verma](https://github.com/prakhar0912)
 
 
 
